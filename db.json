@@ -1,0 +1,37 @@
+{
+ emprestimo:[
+   {"id": 1,
+    "cnpjConsignante": 1111111111111,
+    "nomeConsignante": "INSS",
+    "cnpjConsignatario": 22222222222222,
+    "nomeConsignatario": "Banco Santander",
+    "numeroVinculo": "1",
+    "numeroContrato": "456 EDF",
+    "situacao": "ATIVO",
+    "dataInclusaoConsignacao": 1584710985121,
+    "valorEmprestimo": 50000,
+    "valorIOF": 5,
+    "valorParcela": 4000,
+    "totalDeParcelas": 4,
+    "competenciaInicio": 022019,
+    "competenciaFim": 102019
+  },
+  {
+    "id": 2,
+    "cnpjConsignante": 1111111111111,
+    "nomeConsignante": "INSS",
+    "cnpjConsignatario": 333333333333333,
+    "nomeConsignatario": "Banco Brasil",
+    "numeroVinculo": "1",
+    "numeroContrato": "123 EDF",
+    "situacao": "ATIVO",
+    "dataInclusaoConsignacao": 1584710985121,
+    "valorEmprestimo": 50000,
+    "valorIOF": 5,
+    "valorParcela": 5000,
+    "totalDeParcelas": 5,
+    "competenciaInicio": 022019,
+    "competenciaFim": 102019
+  }
+  ]
+}
